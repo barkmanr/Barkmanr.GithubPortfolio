@@ -1,14 +1,11 @@
-#Computer Science; Game Engineering Student
+# Computer Science; Game Engineering Student
 
-
-###Education
+### Education
 Sheridan College 
 Honors Bachelor of Computer Science; Specialization in Game Engineering
 GPA: 3.71
 
-
-
-###Projects
+### Projects
 -Fortnite Maps
 
 -Unreal Projects
