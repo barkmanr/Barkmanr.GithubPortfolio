@@ -8,9 +8,9 @@
 # Projects
 ### Fortnite Maps
 Mario Party
-  <br/>-Full:   [https://www.youtube.com/watch?v=cPYZnt-eFCE&list=PL_Nlx6peQv1mjFhmfGtgyQYArt1uCrWU3](https://www.youtube.com/watch?v=cPYZnt-eFCE&list=PL_Nlx6peQv1mjFhmfGtgyQYArt1uCrWU3)
+  <br/>-Full:   [https://www.youtube.com/watch?v=cPYZnt-eFCE](https://www.youtube.com/watch?v=cPYZnt-eFCE)
   <br/>-Board:  [https://www.youtube.com/watch?v=GeRZ4PKftDg](https://www.youtube.com/watch?v=GeRZ4PKftDg)
-  <br/>-Games:
+  <br/>-Games: [https://www.youtube.com/watch?v=a7lpB6bbvhI](https://www.youtube.com/watch?v=a7lpB6bbvhI)
 
 Minigame Tower
   -Full:
