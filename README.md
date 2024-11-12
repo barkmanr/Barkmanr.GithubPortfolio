@@ -25,9 +25,8 @@ Minigame Tower:
   -Infinite Runner 
 
 ### VisualStudio Code
-  -SDL_RPS
+  -SDL_RPS: [https://github.com/barkmanr/SDLRPS](https://github.com/barkmanr/SDLRPS)
 
-  -YULshaderfile [https://github.com/barkmanr/Barkmanr.YULshaderfile](https://github.com/barkmanr/Barkmanr.YULshaderfile)
+  -YULshaderfile: [https://github.com/barkmanr/Barkmanr.YULshaderfile](https://github.com/barkmanr/Barkmanr.YULshaderfile)
 
-  -ConectingWall
-  <br/> [https://github.com/barkmanr/Barkmanr.ConnectingWall](https://github.com/barkmanr/Barkmanr.ConnectingWall)
+  -ConectingWall: [https://github.com/barkmanr/Barkmanr.ConnectingWall](https://github.com/barkmanr/Barkmanr.ConnectingWall)
