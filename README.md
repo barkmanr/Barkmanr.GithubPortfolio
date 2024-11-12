@@ -1,21 +1,23 @@
 # Computer Science; Game Engineering Student
 
-### Education
-Sheridan College 
+# Education
+## Sheridan College 
   -Honors Bachelor of Computer Science; Specialization in Game Engineering
   -GPA: 3.71
 
-### Projects
-# Fortnite Maps
+# Projects
+### Fortnite Maps
 Mario Party
-https://www.youtube.com/watch?v=GeRZ4PKftDg
+  -Full:   (https://www.youtube.com/watch?v=cPYZnt-eFCE&list=PL_Nlx6peQv1mjFhmfGtgyQYArt1uCrWU3)
+  -Board:  (https://www.youtube.com/watch?v=GeRZ4PKftDg)
+  -Games:
 
-# unreal Projects
+### unreal Projects
   -Galaga Project
   
   -Infinite Runner 
 
-# VisualStudio Code
+### VisualStudio Code
   -SDL_RPS
 
   -YULshaderfile
