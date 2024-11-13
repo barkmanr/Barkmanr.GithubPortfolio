@@ -1,3 +1,4 @@
+Ryan Barkman
 # Education
 ## Sheridan College 
   -Honors Bachelor of Computer Science; Specialization in Game Engineering <br/>
