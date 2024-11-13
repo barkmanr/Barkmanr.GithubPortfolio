@@ -20,9 +20,9 @@ Minigame Tower:
   <br/>-Games (pt2): [https://www.youtube.com/watch?v=5jN2gWLrqRo](https://www.youtube.com/watch?v=5jN2gWLrqRo)
 
 ### unreal Projects
-  -Galaga Project
-  
-  -Infinite Runner 
+  -Galaga Project: [https://www.youtube.com/watch?v=sE_Ui1PKXRE](https://www.youtube.com/watch?v=sE_Ui1PKXRE)
+  <br/>
+  -Infinite Runner: [https://www.youtube.com/watch?v=Tk3rWA-XoO4](https://www.youtube.com/watch?v=Tk3rWA-XoO4)
 
 ### VisualStudio Code
   -SDL_RPS: [https://github.com/barkmanr/SDLRPS](https://github.com/barkmanr/SDLRPS)
