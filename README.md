@@ -18,7 +18,7 @@ Top Baby Names Sorter:
 
 ### Fortnite Maps
 Mario Party:
---![Screenshot of Mario Party Map](assets/img/MarioPartyMap.jpg)
+![Screenshot of Mario Party Map](assets/img/MarioPartyMap.jpg)
   <br/>-Full Demo:   [https://www.youtube.com/watch?v=cPYZnt-eFCE](https://www.youtube.com/watch?v=cPYZnt-eFCE)
   <br/>-Board (pt1):  [https://www.youtube.com/watch?v=GeRZ4PKftDg](https://www.youtube.com/watch?v=GeRZ4PKftDg)
   <br/>-Games (pt2): [https://www.youtube.com/watch?v=a7lpB6bbvhI](https://www.youtube.com/watch?v=a7lpB6bbvhI)
