@@ -2,7 +2,7 @@ Ryan Barkman
 # Education
 ## Sheridan College 
   -Honors Bachelor of Computer Science; Specialization in Game Engineering <br/>
-  -GPA: 3.71
+  -GPA: 3.72
 
 # Projects
 ### Data Code
