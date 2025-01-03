@@ -5,9 +5,20 @@ Ryan Barkman
   -GPA: 3.71
 
 # Projects
+### Data Code
+Flight API:
+[https://github.com/barkmanr/FlightAPI](https://github.com/barkmanr/FlightAPI) <br/>
+
+SQL STATEMENTS:
+[https://github.com/barkmanr/SQL_Statments](https://github.com/barkmanr/SQL_Statments) <br/>
+
+Top Baby Names Sorter:
+[https://github.com/barkmanr/Barkmanr.SortingBabyNames](https://github.com/barkmanr/Barkmanr.SortingBabyNames) <br/>
+
+
 ### Fortnite Maps
 Mario Party:
-![Screenshot of Mario Party Map](assets/img/MarioPartyMap.jpg)
+--![Screenshot of Mario Party Map](assets/img/MarioPartyMap.jpg)
   <br/>-Full Demo:   [https://www.youtube.com/watch?v=cPYZnt-eFCE](https://www.youtube.com/watch?v=cPYZnt-eFCE)
   <br/>-Board (pt1):  [https://www.youtube.com/watch?v=GeRZ4PKftDg](https://www.youtube.com/watch?v=GeRZ4PKftDg)
   <br/>-Games (pt2): [https://www.youtube.com/watch?v=a7lpB6bbvhI](https://www.youtube.com/watch?v=a7lpB6bbvhI)
