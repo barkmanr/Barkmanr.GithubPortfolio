@@ -9,7 +9,7 @@ Ryan Barkman
 Flight API:
 [https://github.com/barkmanr/FlightAPI](https://github.com/barkmanr/FlightAPI) <br/>
 Enterprise software exam project. 2-hour time limit. API Hold data base for client to use. Uses Swagger to test output of API. It uses DTO's to limit the data being viewed in specific requests. 3 features are all flights, add flights, and search for specific location. Client uses API through local address with JSON/HTTPResponseMessage data. Client Also holds identity users in which a user needs to be authenticated to add flights. 
-![Screenshot of Destination search for both API and Client side](assets/img/API.jpg)
+![Screenshot of Destination search for both API and Client side](assets/img/API.png)
 
 SQL STATEMENTS:
 [https://github.com/barkmanr/SQL_Statments](https://github.com/barkmanr/SQL_Statments) <br/>
