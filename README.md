@@ -18,7 +18,8 @@ List of used SQL Statements used through out Database Modeling course showcasing
 Top Baby Names Sorter:
 [https://github.com/barkmanr/Barkmanr.SortingBabyNames](https://github.com/barkmanr/Barkmanr.SortingBabyNames) <br/>
 Reads text files of the top baby names of a specific year. Formtat of text file is like this "(1	Jacob	21,196	Isabella	22,316)". The way it reads the file is by reading each line of text and then seperating each item by spaces. For the numbers it just seperates it by the comma. Three things this does is ask for a name, gender, and year; and it will give you the rank of it if in top 1000. Then it will get all the names that apear in both list. The last thing it does is show the top 10 unique names that the female and male names have. 
-
+![Screenshot of Baby App Running showing Ryan is Ranked 20 for males in 2009 and also showing up in both lists](assets/img/Baby.png)
+<br/>
 
 ### Fortnite Maps
 Mario Party:
