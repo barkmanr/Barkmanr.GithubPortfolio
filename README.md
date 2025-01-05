@@ -16,12 +16,20 @@ The client interacts with the API via a local address, receiving data in JSON fo
 <br/>
 
 ## SQL STATEMENTS: [https://github.com/barkmanr/SQL_Statments](https://github.com/barkmanr/SQL_Statments) <br/>
-List of used SQL Statements used through out Database Modeling course showcasing my knowledge of SQL
+This portfolio showcases my knowledge of SQL, featuring a range of statements used during the Database Modeling course. The list includes: Inner Joins, Subqueries, Triggers, Functions, If-Else Statements, Views, Temporary Tables, Ranks, Stored Procedures.
+
+Additionally, I have included screenshots from an assignment, though I forgot to add the corresponding questions when answering them. Please note that the code may not run as intended since I no longer have access to the class database (which was provided by the instructor). However, the code remains intact for review, allowing you to see the work I've completed.
 ![Screenshot of SQL Statement where I use Inner joins to find the average order prices within a specific timeframe](assets/img/SQL.png)
 <br/>
-## Top Baby Names Sorter:
-[https://github.com/barkmanr/Barkmanr.SortingBabyNames](https://github.com/barkmanr/Barkmanr.SortingBabyNames) <br/>
-Reads text files of the top baby names of a specific year. Formtat of text file is like this "(1	Jacob	21,196	Isabella	22,316)". The way it reads the file is by reading each line of text and then seperating each item by spaces. For the numbers it just seperates it by the comma. Three things this does is ask for a name, gender, and year; and it will give you the rank of it if in top 1000. Then it will get all the names that apear in both list. The last thing it does is show the top 10 unique names that the female and male names have. 
+## Top Baby Names Sorter: [https://github.com/barkmanr/Barkmanr.SortingBabyNames](https://github.com/barkmanr/Barkmanr.SortingBabyNames) <br/>
+This application reads text files containing the top baby names of a specific year. The format of the text file is structured as follows: (1 Jacob 21,196 Isabella 22,316).
+
+The app processes the file by reading each line, separating the items by spaces, and then parsing the numbers by commas. It offers three main features:
+<b> 1) Rank Lookup: </b> The user is prompted to input a name, gender, and year, and the application returns the rank of the name if it appears in the top 1000 for that year.
+2) Common Names: It identifies and displays all the names that appear in both the male and female lists for a given year.
+3) Top 10 Unique Names: The app shows the top 10 unique names, with separate lists for female and male names.
+
+The application employs pointers and double pointers to manage names and numbers as linked lists, ensuring proper memory handling and disposal at the end of the program. This project demonstrates my skill in handling and manipulating data efficiently.
 ![Screenshot of Baby App Running showing Ryan is Ranked 20 for males in 2009 and also showing up in both lists](assets/img/Baby.png)
 <br/>
 
