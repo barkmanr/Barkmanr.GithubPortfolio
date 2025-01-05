@@ -24,10 +24,10 @@ Additionally, I have included screenshots from an assignment, though I forgot to
 ## Top Baby Names Sorter: [https://github.com/barkmanr/Barkmanr.SortingBabyNames](https://github.com/barkmanr/Barkmanr.SortingBabyNames) <br/>
 This application reads text files containing the top baby names of a specific year. The format of the text file is structured as follows: (1 Jacob 21,196 Isabella 22,316).
 
-The app processes the file by reading each line, separating the items by spaces, and then parsing the numbers by commas. It offers three main features:
-<b> 1) Rank Lookup: </b> The user is prompted to input a name, gender, and year, and the application returns the rank of the name if it appears in the top 1000 for that year.
-2) Common Names: It identifies and displays all the names that appear in both the male and female lists for a given year.
-3) Top 10 Unique Names: The app shows the top 10 unique names, with separate lists for female and male names.
+The app processes the file by reading each line, separating the items by spaces, and then parsing the numbers by commas. It offers three main features: <br/>
+**1) Rank Lookup** The user is prompted to input a name, gender, and year, and the application returns the rank of the name if it appears in the top 1000 for that year. <br/>
+**2) Common Names:** It identifies and displays all the names that appear in both the male and female lists for a given year.<br/>
+**3) Top 10 Unique Names:** The app shows the top 10 unique names, with separate lists for female and male names.
 
 The application employs pointers and double pointers to manage names and numbers as linked lists, ensuring proper memory handling and disposal at the end of the program. This project demonstrates my skill in handling and manipulating data efficiently.
 ![Screenshot of Baby App Running showing Ryan is Ranked 20 for males in 2009 and also showing up in both lists](assets/img/Baby.png)
@@ -45,7 +45,7 @@ The application employs pointers and double pointers to manage names and numbers
   <br/>
   -Infinite Runner: [https://www.youtube.com/watch?v=Tk3rWA-XoO4](https://www.youtube.com/watch?v=Tk3rWA-XoO4)
 
- ### Fortnite Maps
+### Fortnite Maps
 Mario Party:
 ![Screenshot of Mario Party Map](assets/img/MarioPartyMap.jpg)
   <br/>-Full Demo:   [https://www.youtube.com/watch?v=cPYZnt-eFCE](https://www.youtube.com/watch?v=cPYZnt-eFCE)
