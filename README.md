@@ -33,7 +33,7 @@ The application employs pointers and double pointers to manage names and numbers
 ![Screenshot of Baby App Running showing Ryan is Ranked 20 for males in 2009 and also showing up in both lists](assets/img/Baby.png)
 <br/>
 
-  ### Other VisualStudio Code
+### Other VisualStudio Code
   -SDL_RPS: [https://github.com/barkmanr/SDLRPS](https://github.com/barkmanr/SDLRPS)
   <br/>
   -YULshaderfile: [https://github.com/barkmanr/Barkmanr.YULshaderfile](https://github.com/barkmanr/Barkmanr.YULshaderfile)
