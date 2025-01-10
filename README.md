@@ -1,4 +1,4 @@
-Ryan Barkman
+[Git Hub](https://github.com/barkmanr/Barkmanr.GithubPortfolio)
 # Education
 ## Sheridan College 
   -Honors Bachelor of Computer Science; Specialization in Game Engineering <br/>
@@ -39,6 +39,8 @@ The application employs pointers and double pointers to manage names and numbers
   -YULshaderfile: [https://github.com/barkmanr/Barkmanr.YULshaderfile](https://github.com/barkmanr/Barkmanr.YULshaderfile)
 <br/>
   -ConectingWall: [https://github.com/barkmanr/Barkmanr.ConnectingWall](https://github.com/barkmanr/Barkmanr.ConnectingWall)
+  <br>
+  -Calculator Testing: [https://github.com/barkmanr/CalcTest](https://github.com/barkmanr/CalcTest)
 
 ### Unreal Projects
   -Galaga Project: [https://www.youtube.com/watch?v=sE_Ui1PKXRE](https://www.youtube.com/watch?v=sE_Ui1PKXRE)
