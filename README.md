@@ -5,6 +5,13 @@
   -GPA: 3.72
 
 # Projects
+
+
+
+## Jira photos for Software Engineering project
+
+
+
 ## Flight API: [https://github.com/barkmanr/FlightAPI](https://github.com/barkmanr/FlightAPI) <br/>
 ### Enterprise Software Exam Project
 This project was completed under a 2-hour time limit and involves building an API that serves as a database for flight data. The API allows clients to interact with the data by providing three key features: listing all available flights, adding new flights, and searching for flights at specific locations.
