@@ -6,6 +6,13 @@
 
 # Projects
 
+## Shooting Galary - Unity
+
+<video width="560" height="315" controls>
+  <source src="assets/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Jira photos for Software Engineering project
 Group of 3 project currently in-progress creating a fake gambling application in Unity. <br/>
 Going through full software engineering life cycle which includes requirement plaing, sprint planning, and risk analysis <br/>
