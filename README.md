@@ -6,10 +6,15 @@
 
 # Projects
 
-
-
 ## Jira photos for Software Engineering project
-
+Group of 3 project currently in-progress creating a fake gambling application in Unity. <br/>
+Going through full software engineering life cycle which includes requirement plaing, sprint planning, and risk analysis <br/>
+Games includede will be: Black Jack, Texas Hold'em, Slots, Roulette, and race betting <br/>
+![Sprint Backlog Photos](assets/img/Jira1.png)
+Sprint backlog of Blackjack and Texas Hold'em <br/>
+![Sprint Backlog Photos](assets/img/Jira2.png)
+Dev Subtask of Determine score of a hand by using 6 hexadecimal numbers <br>
+Makes it easy to compare different hands <br>
 
 
 ## Flight API: [https://github.com/barkmanr/FlightAPI](https://github.com/barkmanr/FlightAPI) <br/>
