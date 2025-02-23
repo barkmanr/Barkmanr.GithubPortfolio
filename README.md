@@ -5,8 +5,10 @@
   -GPA: 3.72
 
 # Projects
+<br>
 
-### Unity Sceen Files
+### Unity Projects
+
 Import them into Unity and run the scene included
 ## Shooting Galary
 <a href="assets/ShootingGalary.unitypackage" download>
@@ -23,7 +25,7 @@ Import them into Unity and run the scene included
   Download the Project Files
 </a>
 
-
+<br>
 ## Final Project: Custom Graphics Engine Demonstration
 [https://github.com/barkmanr/GraphicsFinal](https://github.com/barkmanr/GraphicsFinal)
 <br>
