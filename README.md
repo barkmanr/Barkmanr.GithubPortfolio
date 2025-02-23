@@ -8,10 +8,25 @@
 
 ## Shooting Galary - Unity
 
-<video width="560" height="315" controls>
-  <source src="assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+## Final Project: Custom Graphics Engine Demonstration
+This project showcases a custom-built graphics engine that integrates multiple concepts learned throughout the course. The engine is structured around four distinct scenes, each demonstrating a different technical capability: <br>
+#### Scene 1 – Rotating ASCII Ship with Interactive Lighting
+The first scene features a rotating ASCII ship illuminated by a dynamic light source. The lighting is manipulated through shader code, allowing users to adjust the specular values, which in turn alters the ship’s appearance. The light source is responsive to mouse movements, transitioning smoothly from the center of the screen to the mouse's position. This demonstrates advanced shader manipulation and real-time light interaction.
+<br>
+#### Scene 2 – Transformable Ship with Interactive Lighting
+In this scene, the user can modify the ship’s transformation (position, scale, and rotation), using the same lighting system from Scene 1. The ship responds to input, and the lighting adjusts accordingly, offering a cohesive experience between object manipulation and light interaction.
+<br>
+#### Scene 3 – ASCII Fish with Shader-based Post-Processing Effects
+Scene 3 introduces an ASCII fish rendered within a water environment, where the user can dynamically apply post-processing effects via shader code. The available effects include a wavy distortion effect to simulate movement in water, a blue tint to evoke the underwater ambiance, and a solid line rendering style for a stylized look. These effects are customizable in real-time, highlighting proficiency in shader programming and post-processing techniques.
+<br>
+#### Scene 4 – Skybox with Multiple Fish in Space
+The final scene uses a skybox to create an expansive space environment, populated with numerous fish, rendered in a surreal, outer-space setting. This scene demonstrates advanced scene composition.
+<br>
+This project not only demonstrates proficiency in shader programming and object transformation but also showcases a deep understanding of graphics rendering techniques, real-time user interaction, and creative application of custom-made graphics tools. By combining complex tasks, including dynamic lighting, user input handling, post-processing effects, and scene rendering, this project reflects a high level of skill and technical execution in the field of computer graphics. It also has the ability to combine Blender-rendered models with ASCII art within a single framework.
+<br>
+[https://github.com/barkmanr/GraphicsFinal](https://github.com/barkmanr/GraphicsFinal)
+<br>
 
 ## Jira photos for Software Engineering project
 Group of 3 project currently in-progress creating a fake gambling application in Unity. <br/>
