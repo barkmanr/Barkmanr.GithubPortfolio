@@ -6,9 +6,10 @@
 
 # Projects
 
-### Unity
+### Unity Sceen Files
+Import them into Unity and run the scene included
 ## Shooting Galary
-<a href="https://github.com/barkmanr/Barkmanr.GithubPortfolio/blob/main/assets/ShootingGalary.unitypackage" download>
+<a href="assets/ShootingGalary.unitypackage" download>
   Download the Project Files
 </a>
 
@@ -18,7 +19,7 @@
 </a>
 
 ## Nav-Meshs
-<a href="https://github.com/barkmanr/Barkmanr.GithubPortfolio/blob/main/assets/ShootingGalary.unitypackage" download>
+<a href="assets/NavMesh.unitypackage" download>
   Download the Project Files
 </a>
 
